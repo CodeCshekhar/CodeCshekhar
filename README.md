@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandrashekharwagh&label=Profile%20views&color=0e75b6&style=flat" alt="chandrashekharwagh" /> </p>
 
-- 🌱 I’m currently learning **Java,html,css,javscript,bootstrap**
+- 🌱 I’m currently learning **Java, html, css, javscript, bootstrap**
 
-- 💬 Ask me about **Java,html,css,javscript,bootstrap**
+- 💬 Ask me about **Java, html, css, javscript, bootstrap**
 
 - 📫 How to reach me **waghchandu2002@gmail.com**
 
