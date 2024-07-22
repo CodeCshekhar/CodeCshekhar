@@ -20,7 +20,8 @@
 </p>
 
 <h3 align="left">Languages :</h3>
-<p align="left"><div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 40px; padding: 25px; background-color: #f5f5f5; border-radius: 12px;">
+<p align="left">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 40px; padding: 25px; background-color: #f5f5f5; border-radius: 12px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="80" height="80"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="CSS3" width="80" height="80"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="80" height="80"/>
@@ -41,7 +42,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="80" height="80"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="Swift" width="80" height="80"/>
 
-
   <h3 align="left">IDE and Tools:</h3>
   <!-- IDEs and Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="80" height="80"/>
@@ -54,7 +54,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" alt="Xcode" width="80" height="80"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="80" height="80"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" width="80" height="80"/>
-</div>   </p>
+</div> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandrashekharwagh&show_icons=true&locale=en&layout=compact" alt="chandrashekharwagh" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandrashekharwagh&show_icons=true&locale=en" alt="chandrashekharwagh" /></p>
