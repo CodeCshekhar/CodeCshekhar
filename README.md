@@ -1,3 +1,5 @@
+<div style="background-color: black; color: white; padding: 20px;">
+
 [![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)](https://Chandrashekharwagh.io)
 <h1 align="center">Hi 👋, I'm Chandrashekhar Wagh</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
@@ -6,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandrashekharwagh&label=Profile%20views&color=0e75b6&style=flat" alt="chandrashekharwagh" /> </p>
 
-- 🌱 I’m currently learning - Java, html, css, javscript, SQL, JDBC
+- 🌱 I'm currently learning - Java, html, css, javscript, SQL, JDBC
 
 - 📫 How to reach me **waghchandu2002@gmail.com**
 
@@ -21,7 +23,7 @@
 
 <h3 align="left">Languages :</h3>
 <p align="left">
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 40px; padding: 25px; background-color: #f5f5f5; border-radius: 12px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 40px; padding: 25px; background-color: #1a1a1a; border-radius: 12px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="80" height="80"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="CSS3" width="80" height="80"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="80" height="80"/>
@@ -56,11 +58,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" width="80" height="80"/>
 </div> </p>
 <p>
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandrashekharwagh&show_icons=true&locale=en&layout=compact" alt="chandrashekharwagh" /></p>
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandrashekharwagh&show_icons=true&locale=en&layout=compact&theme=dark" alt="chandrashekharwagh" /></p>
 
 <p>
- &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandrashekharwagh&show_icons=true&locale=en" alt="chandrashekharwagh" />
+ &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandrashekharwagh&show_icons=true&locale=en&theme=dark" alt="chandrashekharwagh" />
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandrashekharwagh&" alt="chandrashekharwagh" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandrashekharwagh&theme=dark" alt="chandrashekharwagh" />
 </p>
+
+</div>
