@@ -55,8 +55,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="80" height="80"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" width="80" height="80"/>
 </div> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandrashekharwagh&show_icons=true&locale=en&layout=compact" alt="chandrashekharwagh" /></p>
+<p>
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandrashekharwagh&show_icons=true&locale=en&layout=compact" alt="chandrashekharwagh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandrashekharwagh&show_icons=true&locale=en" alt="chandrashekharwagh" /></p>
+<p>
+ &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandrashekharwagh&show_icons=true&locale=en" alt="chandrashekharwagh" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandrashekharwagh&" alt="chandrashekharwagh" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandrashekharwagh&" alt="chandrashekharwagh" />
+</p>
