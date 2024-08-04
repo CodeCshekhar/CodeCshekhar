@@ -52,6 +52,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" width="80" height="80"/>
 </div> </p>
 
+<table style="background-color: black; border-collapse: collapse; border: 1px solid black;">
+  <tr>
+    <td style="padding: 10px;">
+      <p style="color: white; margin: 0; text-align: center;">Profile Views</p>
+      <img src="https://profile-counter.glitch.me/chandrashekharwagh/count.svg" alt="Visitor Count" />
+    </td>
+  </tr>
+</table>
+
 <p>
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandrashekharwagh&show_icons=true&locale=en&layout=compact&theme=dark" alt="chandrashekharwagh" /></p>
 
