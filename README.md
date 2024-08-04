@@ -1,74 +1,58 @@
-<div style="background-color: black; color: white; padding: 20px;">
-
 [![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)](https://Chandrashekharwagh.io)
-<h1 align="center">Hi 👋, I'm Chandrashekhar Wagh</h1>
-<h3 align="center">A passionate Full-Stack developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+Hi 👋 My name is Chandrashekhar Wagh
+====================================
 
-- 🌱 I'm currently learning - Java, html, css, javscript, SQL, JDBC
+Full-Stack Developer
+--------------------
 
-- 📫 How to reach me **waghchandu2002@gmail.com**
+I'm a passionate Full-Stack developer from India. Currently learning and working with various technologies to expand my skillset.
 
-- ⚡ Fun fact **I am funny**
+### Here is what I am working on 👋
+- 🌍 I'm based in India
+- 🔭 I'm currently working on : Java, HTML, CSS, JavaScript, SQL, JDBC
+- 🌱 I'm currently learning : Full-Stack Development
+- 👯 I'm looking to collaborate on : Web Development projects
+- 📫 How to reach me : waghchandu2002@gmail.com
+- ⚡ Fun fact : I am funny
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
- 
-<a href="https://instagram.com/chandrashekhar_wagh_23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chandrashekhar_wagh_23" height="30" width="40" /></a>
- <a href="https://twitter.com/waghchandu2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="waghchandu2002" height="30" width="40" /></a>
-</p>
+## Stack I work with
+<code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></code>
+<code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
+<code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
+<code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
+<code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></code>
+<code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"></code>
+<code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code>
+<code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"></code>
+<code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
+<code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></code>
+<code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></code>
+<code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></code>
+<code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"></code>
+<code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"></code>
 
-<h3 align="left">Languages :</h3>
-<p align="left">
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 40px; padding: 25px; background-color: #000000; border-radius: 12px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="80" height="80"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="CSS3" width="80" height="80"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="80" height="80"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="HTML5" width="80" height="80"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="80" height="80"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="80" height="80"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="80" height="80"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="80" height="80"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="80" height="80"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="80" height="80"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="80" height="80"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="80" height="80"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="80" height="80"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="80" height="80"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="80" height="80"/>
+## IDE and Tools
+<code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code>
+<code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"></code>
+<code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg"></code>
+<code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg"></code>
+<code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
+<code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></code>
 
-  <h3 align="left" style="color: #ffffff;">IDE and Tools:</h3>
-  <!-- IDEs and Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="80" height="80"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="80" height="80"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="80" height="80"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="80" height="80"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" alt="Atom" width="80" height="80"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="Vim" width="80" height="80"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="80" height="80"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" alt="Xcode" width="80" height="80"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="80" height="80"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" width="80" height="80"/>
-</div> </p>
+## Social Media Handles
+[![Github](https://img.shields.io/github/followers/chandrashekharwagh?label=Follow&style=social)](https://github.com/chandrashekharwagh)
+[![Instagram](https://img.shields.io/badge/-chandrashekhar__wagh__23-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/chandrashekhar_wagh_23/)](https://instagram.com/chandrashekhar_wagh_23)
+[![Twitter](https://img.shields.io/twitter/follow/waghchandu2002?style=social)](https://twitter.com/waghchandu2002)
+[![Mail](https://img.shields.io/badge/-waghchandu2002@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:waghchandu2002@gmail.com)
 
-<table style="background-color: black; border-collapse: collapse; border: 1px solid black;">
-  <tr>
-    <td style="padding: 10px;">
-      <p style="color: white; margin: 0; text-align: center;">Profile Views</p>
-      <img src="https://profile-counter.glitch.me/chandrashekharwagh/count.svg" alt="Visitor Count" />
-    </td>
-  </tr>
-</table>
+## Profile Visits
+![Visitor Count](https://profile-counter.glitch.me/{chandrashekharwagh}/count.svg)
 
-<p>
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandrashekharwagh&show_icons=true&locale=en&layout=compact&theme=dark" alt="chandrashekharwagh" /></p>
+### Badges
+| <a href="https://github.com/chandrashekharwagh/chandrashekharwagh"><img align="center" src="https://github-readme-stats.vercel.app/api?username=chandrashekharwagh&show_icons=true&theme=buefy&hide_border=true&count_private=true" alt="Chandrashekhar's github stats" /></a> | <a href="https://github.com/chandrashekharwagh/chandrashekharwagh"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandrashekharwagh&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
-<p>
- &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandrashekharwagh&show_icons=true&locale=en&theme=dark" alt="chandrashekharwagh" />
-</p>
+<b>My GitHub Stats</b>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandrashekharwagh&theme=dark" alt="chandrashekharwagh" />
-</p>
-
-</div>
+<a href="http://www.github.com/chandrashekharwagh"><img src="https://github-readme-streak-stats.herokuapp.com/?user=chandrashekharwagh&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
