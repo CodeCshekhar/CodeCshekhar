@@ -15,7 +15,7 @@ I'm a passionate Full-Stack developer from India. Currently learning and working
 - 🔭 I'm currently working on : Java, Hibernate ,Springboot, JavaScript, SQL, JDBC
 - 🌱 I'm currently learning : Full-Stack Development
 - 👯 I'm looking to collaborate on : Web Development projects
-- 📫 How to reach me : waghchandu2002@gmail.com
+- 📫 How to reach me : cwagh2309@gmail.com
 - ⚡ Fun fact : I am funny
 
 ## Stack I work with
