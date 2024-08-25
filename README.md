@@ -40,7 +40,7 @@ I'm a passionate Full-Stack developer from India. Currently learning and working
 ## Social Media Handles
 [![Github](https://img.shields.io/github/followers/chandrashekharwagh?label=Follow&style=social)](https://github.com/chandrashekharwagh)
 [![Instagram](https://img.shields.io/badge/-chandrashekhar__wagh__23-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/chandrashekhar_wagh_23/)](https://instagram.com/chandrashekhar_wagh_23)
-[![Twitter](https://img.shields.io/twitter/follow/waghchandu2002?style=social)](https://twitter.com/waghchandu2002)
+[![Twitter](https://img.shields.io/twitter/follow/ChanduWagh23?style=social)](https://twitter.com/ChanduWagh23)
 [![Mail](https://img.shields.io/badge/-cwagh2309@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:waghchandu2002@gmail.com)
 
 ## Profile Visits
