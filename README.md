@@ -12,7 +12,7 @@ I'm a passionate Full-Stack developer from India. Currently learning and working
 
 ### Here is what I am working on 👋
 - 🌍 I'm based in India
-- 🔭 I'm currently working on : Java, Hibernate ,Springboot ,RESTAPI's
+- 🔭 I'm currently working on : Java, Hibernate - JPA ,Springboot ,RESTAPI's
 - 🌱 I'm currently learning : Full-Stack Development
 - 👯 I'm looking to collaborate on : Web Development projects
 - 📫 How to reach me : cwagh2309@gmail.com
