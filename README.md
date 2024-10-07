@@ -39,9 +39,9 @@ I'm a passionate Full-Stack developer from India. Currently learning and working
 <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></code>
 
 ## Social Media Handles
-[![Github](https://img.shields.io/github/followers/chandrashekharwagh?label=Follow&style=social)](https://github.com/chandrashekharwagh)
+[![Github](https://img.shields.io/github/followers/CodeCshekhar?label=Follow&style=social)](https://github.com/CodeCshekhar)
 [![Twitter](https://img.shields.io/twitter/follow/ChanduWagh23?style=social)](https://twitter.com/ChanduWagh23)
-[![Mail](https://img.shields.io/badge/-cwagh2309@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:waghchandu2002@gmail.com)
+[![Mail](https://img.shields.io/badge/-cwagh2309@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:cwagh2309@gmail.com)
 
 ## Profile Visits
 ![Visitor Count](https://profile-counter.glitch.me/{CodeCshekhar}/count.svg)
