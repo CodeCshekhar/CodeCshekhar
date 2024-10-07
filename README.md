@@ -44,12 +44,12 @@ I'm a passionate Full-Stack developer from India. Currently learning and working
 [![Mail](https://img.shields.io/badge/-cwagh2309@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:waghchandu2002@gmail.com)
 
 ## Profile Visits
-![Visitor Count](https://profile-counter.glitch.me/{chandrashekharwagh}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{CodeCshekhar}/count.svg)
 
 ### Badges
-| <a href="https://github.com/chandrashekharwagh/chandrashekharwagh"><img align="center" src="https://github-readme-stats.vercel.app/api?username=chandrashekharwagh&show_icons=true&theme=buefy&hide_border=true&count_private=true" alt="Chandrashekhar's github stats" /></a> | <a href="https://github.com/chandrashekharwagh/chandrashekharwagh"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandrashekharwagh&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/CodeCshekhar/CodeCshekhar"><img align="center" src="https://github-readme-stats.vercel.app/api?username=CodeCshekhar&show_icons=true&theme=buefy&hide_border=true&count_private=true" alt="Chandrashekhar's github stats" /></a> | <a href="https://github.com/CodeCshekhar/CodeCshekhar"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeCshekhar&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/chandrashekharwagh"><img src="https://github-readme-streak-stats.herokuapp.com/?user=chandrashekharwagh&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/CodeCshekhar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeCshekhar&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
