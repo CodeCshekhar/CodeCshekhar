@@ -13,7 +13,7 @@ I'm a passionate Full-Stack developer from India. Currently learning and working
 
 ### Here is what I am working on 👋
 - 🌍 I'm based in India
-- 🔭 I'm currently working on : Java, Hibernate - JPA ,Springboot ,RESTAPI's
+- 🔭 I'm currently working on : Java, Hibernate - JPA ,Springboot ,RESTAPI's and Python
 - 🌱 I'm currently learning : Full-Stack Development
 - 👯 I'm looking to collaborate on : Web Development projects
 - 📫 How to reach me : cwagh2309@gmail.com
@@ -23,6 +23,7 @@ I'm a passionate Full-Stack developer from India. Currently learning and working
 <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></code>
 <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"></code>
 <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg"></code>
+<code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
 <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"></code>
 <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></code>
 <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"></code>
@@ -33,6 +34,7 @@ I'm a passionate Full-Stack developer from India. Currently learning and working
 ## IDE and Tools
 <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code>
 <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"></code>
+<code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg"></code>
 <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg"></code>
 <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
 <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></code>
