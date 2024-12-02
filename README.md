@@ -47,11 +47,6 @@ I'm a passionate Full-Stack developer from India. Currently learning and working
 ## Profile Visits
 ![Visitor Count](https://profile-counter.glitch.me/{CodeCshekhar}/count.svg)
 
-### Badges
-| <a href="https://github.com/CodeCshekhar/CodeCshekhar"><img align="center" src="https://github-readme-stats.vercel.app/api?username=CodeCshekhar&show_icons=true&theme=buefy&hide_border=true&count_private=true" alt="Chandrashekhar's github stats" /></a> | <a href="https://github.com/CodeCshekhar/CodeCshekhar"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeCshekhar&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-<b>My GitHub Stats</b>
 ## My GitHub Stats & Badges
 | <img src="https://github-profile-trophy.vercel.app/?username=CodeCshekhar" alt="kodtodya" /> |
 | <a href="https://github.com/CodeCshekhar/CodeCshekhar"><img align="center" src="https://github-readme-stats.vercel.app/api?username=CodeCshekhar&show_icons=true&theme=buefy&hide_border=true&count_private=true" alt="CodeCshekhar's github stats" /></a> | <a href="https://github.com/CodeCshekhar/CodeCshekhar"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeCshekhar&layout=compact&theme=buefy&hide_border=true&langs_count=8" /></a> |
