@@ -52,5 +52,7 @@ I'm a passionate Full-Stack developer from India. Currently learning and working
 | ------------- | ------------- |
 
 <b>My GitHub Stats</b>
-
-<a href="http://www.github.com/CodeCshekhar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeCshekhar&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+## My GitHub Stats & Badges
+| <img src="https://github-profile-trophy.vercel.app/?username=CodeCshekhar" alt="kodtodya" /> |
+| <a href="https://github.com/CodeCshekhar/CodeCshekhar"><img align="center" src="https://github-readme-stats.vercel.app/api?username=CodeCshekhar&show_icons=true&theme=buefy&hide_border=true&count_private=true" alt="CodeCshekhar's github stats" /></a> | <a href="https://github.com/CodeCshekhar/CodeCshekhar"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeCshekhar&layout=compact&theme=buefy&hide_border=true&langs_count=8" /></a> |
+| ------------- | ------------- |
