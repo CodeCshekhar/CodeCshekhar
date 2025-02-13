@@ -38,6 +38,7 @@ I'm a passionate Full-Stack developer from India. Currently learning and working
 <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"></code>
 <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg"></code>
 <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg"></code>
+<code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"></code>
 <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
 <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></code>
 
