@@ -16,7 +16,6 @@ I'm a passionate Full-Stack developer from India. Currently learning and working
 - 🔭 I'm currently working on : React, Python, Java, Hibernate - JPA, Springboot.
 - 👯 I'm looking to collaborate on : Web Development projects
 - 📧 How to reach me : [CodeCshekhar.github.io](https://CodeCshekhar.github.io/)
-- 📧 Here is my Other Portfolio : [Chandrashekhar Wagh](https://chandrashekhar-wagh-react-portfolio-mauve-nine-85.vercel.app/)
 - ⚡ Fun fact : I am funny
 
 ## Stack I work with
