@@ -13,7 +13,7 @@ I'm a passionate Full-Stack developer from India. Currently learning and working
 
 ### Here is what I am working on 👋
 - 🌍 I'm based in India
-- 🔭 I'm currently working on : React, Python, Java, Hibernate - JPA, Springboot.
+- 🔭 I'm currently working on : WordPress, React, Java, Hibernate - JPA, Springboot.
 - 👯 I'm looking to collaborate on : Web Development projects
 - 📧 How to reach me : [CodeCshekhar.github.io](https://CodeCshekhar.github.io/)
 - ⚡ Fun fact : I am funny
